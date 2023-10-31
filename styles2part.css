@@ -3,8 +3,11 @@
     margin: 10px;
     padding: 10px;
     box-sizing: border-box;
+    background-color: white;
 }
-
+/* .body{
+    background-color: white;
+} */
 .padre {
     display: flex;
     flex-flow: column nowrap;
@@ -20,6 +23,7 @@
     background: #001253;
     display: flex;
     flex-flow:row nowrap;
+    margin-bottom: 3px;
 }
 
 .logo {
@@ -102,8 +106,9 @@ h1 {
 }
 
 @media all and (max-width: 800px){
-    
-
+     .padre{
+        background-color: #3E6D9C;
+     }
      .section{
         flex-direction: column;
      }
@@ -119,7 +124,9 @@ h1 {
     }  
 
 @media all and (max-width: 600px) {
-    
+    .padre{
+        background-color: red;
+    }
     .aside{
         
         flex-direction: column;
@@ -127,8 +134,10 @@ h1 {
    
 }
 @media all and (max-width: 400px) { 
+    .padre {
+        background-color: #F7D716;
+    }
     
-
     .aside{
         
         flex-direction: column;
