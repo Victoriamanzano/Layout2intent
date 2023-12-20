@@ -3,10 +3,12 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></a>
    
-# Layout - Sprint 1      
+# Layout - Sprint 1 
+Primera parte del sprint 1 del bootcamp de Angular en ITAcademy Barcelona.
+
 En este repositorio tenia que hacer un Layout que funcionara tanto en escritorio, como mòbil y tableta.
 
-## Ingredientes 🧂
+## Conocimientos:
 - HTML Y CSS
 
 - Flexbox CSS
